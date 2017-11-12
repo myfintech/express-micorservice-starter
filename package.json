@@ -1,0 +1,11 @@
+{
+  "name": "express-microservice-starter",
+  "version": "1.0.0",
+  "description": "Starter app for an express microservice",
+  "main": "index.js",
+  "author": "Benjamin Conant <conantbenjamin@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
